@@ -8,7 +8,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/background.jpg) no-repeat center center;
+   background: #161415 url(../images/background_mojave.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -53,8 +53,8 @@ header .banner-text h3 a {
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
+   border-color: #fff;
+   border-color: rgba(155, 155, 155, .2);
 }
 
 /* header social links */
